@@ -1,0 +1,82 @@
+Ignacio Eduardo QUIROGA ASCENZI
+DNI: 36424266 (CUIT/CUIL : 20-36424266-3)
+Nacimiento: 19/07/1992 - San Juan (Capital), Argentina
+Domicilio: Oroño 281 5o A, Rosario, Argentina
+Teléfono: +54 3471 588793
+E-mail: quasiged@gmail.com
+Nacionalidad: Argentina - Italiana
+Licencia de conductor: A3 - B2 (dispongo auto propio)
+FORMACIÓN:
+.
+Secundario: EGRESADO - 2006-2010 Polimodal (Cs. Naturales) - Esc. N. Sup. No33 - Armstrong
+..
+Terciario: EGRESADO - 2016-2018 Tecnicatura Sup. en Electrónica - Inst. “Don Bosco” ISPI No9232 San Jose - Rosario
+.
+Terciario: CURSANDO - 2021-2023 Tecnicatura Univ. en Programación - Univ. AUSTRAL y Polo Tecnológico - Rosario
+.
+
+.
+Cursos:
+- Bombero voluntario 2009-2011 - ABVA Armstrong
+- Electrónica Arduino 2015 - educacionIT Rosario
+- Python Programming 2019 - educacionIT Buenos Aires
+.
+Idiomas:
+- ESPAÑOL natal
+- INGLÉS B1 2004-2010 (Interlingua Armstrong)
+- ALEMÁN A1 2019-2020 (CLEC Rosario)
+EXPERIENCIA:
+- Los Piuquenes SA (Agricultura-Ganadería) 2006 - 2015 Armstrong. Asistencia en contabilidad y manutención de
+campo con personal a cargo. Uso, manejo y arreglo de herramientas y maquinarias agrarias y de taller.
+Asistencia en feedlot y ajuste de dietas del ganado bovino.
+- Autopartes Palazzolo (Metalurgia) 2015 - 2017 - Rosario. Operario. Optimización de programas de torno
+numérico. Manejo de herramientas y máquinas de taller. Torno numérico y paralelo, fresadora,
+agujereadoras. Uso de montacarga y zorra hidráulica. Administración de stock.
+- ONG TECHO 2014 - 2018 Rosario. Voluntario en Áreas: Comunicación y Técnica. Coordinación entre cada área.
+Tareas de mantenimiento de materiales de construcción. Difusión. Captación. Capacitación.
+- Impresión 3D (Proyecto propio) 2016 - Actualidad Rosario. Creador y dueño de mi emprendimiento. Ajuste y
+calibración de la impresora. Desarrollo en C, Arduino y Python. Diseño 3D. Ventas.
+- Prosenzor (Seguridad electrónica) Agosto 2020 - Abril 2021 - Rosario. Instalador. Service.
+Sistema CCTV. Cámaras IP. Redes. Controles de acceso y ascensores. Llaves rfid anti clonación. Receptor
+inalámbrico. Cableado 220v, de control 5v 12v y 24v, utp, etc. Portones automáticos. Instalación y
+configuración equipos hikvision, zkteco, rosslare, dahua y axtraxng.
+- Einge (Gestión eficiente de energía y automatización) Mayo 2021 - Actualidad - Rosario.
+Programador Junior. Técnico electrónico Junior.
+Mantenimiento web, front end y back end. Conexión a APIs externas. Diseño de scadas web.
+Armado y testeo de placas electrónicas propias. Cableados de control y potencia. Medición y gestión de
+energía de grandes consumidores. Programación de PLC. Puesta en marcha de sistemas automatizados.
+
+COMPETENCIAS:
+- Lenguajes:
+- nivel avanzado: C / C++ / processing / Python / PHP / JavaScript
+- nivel intermedio: MySQL / Java / HTML / CSS / git / dart
+- nivel básico: gCode / C# / Ladder /
+- Frameworks: Flutter / Angular
+- Programas: VS Code / Intellij / WebStorm / PyCharm / VS Code / KiCad / GitHub Desktop / Android Studio /
+
+Proteus / MPLAB X / Apache Netbeans / XAMPP /
+Office / Google Docs / AutoCAD / Ultimaker Cura /
+
+- Arquitecturas: Impresora 3D / PIC / PLC / CNC / Arduino / Raspberrypi / Redes / RFID / Cámaras
+
+EXPERIENCIA PERSONAL:
+- Proyecto multiplataforma con Flutter.
+- SCRUM - Kanban
+- Desarrollo de software propio en C, Python y Arduino.
+- Página web responsive informativas y simples.
+- Proyectos con PIC, Arduino y Raspberry.
+- Instalación de sistemas de cámara de seguridad, NVR con cámaras IP y analógicas.
+- Trabajos electrónicos en 5v, 12v y 24v; y eléctricos en 220v y 380v.
+- Carpintería y herrería convencional.
+
+REFERENCIA LABORAL:
+Mario Palazzolo - Teléfono: +54 341 6173193
+Ruben Gonzalez - Prosenzor - Teléfono: +54 341 3075506 - rgonzalez@prosenzor.com / rubendario_g@hotmail.com
+Dionisio Quiroga - Los Piuquenes S.A. - Teléfono: +54 3471 681728
+OBJETIVOS, HABILIDADES Y APTITUDES:
+Mi gran valor es el respeto.
+Me presento como una persona con iniciativa, productiva, responsable, proactiva y flexible.
+Me enfoco en el logro de resultados, en la resolución de tareas, en el trabajo en equipo y en la evolución
+como profesional.
+Dispongo de compromiso y responsabilidad en mis funciones.
+Poseo habilidad para crear soluciones prácticas a cualquier situación o aprender nuevos métodos.
